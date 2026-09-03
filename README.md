@@ -52,8 +52,8 @@ Tartarus settings live in the **Tartarus** tab of the in-game settings menu, or 
 | --- | --- |
 | `cl_Tartarus_ui` | Toggle the Tartarus UI theme |
 | `cl_Tartarus_ui_scale` | Interface scale in percent (50–200, default 75) |
-| `el_fast_input` / `el_fast_input_mode` / `el_fast_input_amount` | Fast input engine |
-| `el_key_indicator`, `el_input_visualizer`, `el_session_stats`, `el_team_indicator`, `el_ninja_timer`, `el_show_hitbox` | HUD widgets |
+| `ta_fast_input` / `ta_fast_input_mode` / `ta_fast_input_amount` | Fast input engine |
+| `ta_key_indicator`, `ta_input_visualizer`, `ta_session_stats`, `ta_team_indicator`, `ta_ninja_timer`, `ta_show_hitbox` | HUD widgets |
 
 ## Credits
 
